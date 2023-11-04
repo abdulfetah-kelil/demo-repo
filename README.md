@@ -1,3 +1,3 @@
 # HS
 
-HTML& CSS
+HTML& CSS.
